@@ -1,0 +1,156 @@
+wweia_food_category_code,wweia_food_category_description,larger_category,same_category
+1002,"Milk, whole",Dairy,Milk
+1004,"Milk, reduced fat",Dairy,Milk
+1006,"Milk, lowfat",Dairy,Milk
+1008,"Milk, nonfat",Dairy,Milk
+1202,"Flavored milk, whole",Dairy,Milk
+1204,"Flavored milk, reduced fat",Dairy,Milk
+1206,"Flavored milk, lowfat",Dairy,Milk
+1208,"Flavored milk, nonfat",Dairy,Milk
+1402,Milk shakes and other dairy drinks,Dairy,Milk
+1404,Milk substitutes,Dairy,Milk
+1602,Cheese,Dairy,Cheese
+1604,Cottage/ricotta cheese,Dairy,Cheese
+1820,"Yogurt, regular",Dairy,Yogurt
+1822,"Yogurt, Greek",Dairy,Yogurt
+2002,"Beef, excludes ground",Protein,Beef
+2004,Ground beef,Protein,Beef
+2006,Pork,Protein,Pork
+2008,"Lamb, goat, game",Protein,"Lamb, goat, game"
+2010,Liver and organ meats,Protein,Liver and organ meats
+2202,"Chicken, whole pieces",Protein,Poultry mixed dishes
+2204,"Chicken patties, nuggets and tenders",Protein,Poultry mixed dishes
+2206,"Turkey, duck, other poultry",Protein,Poultry mixed dishes
+2402,Fish,Protein,Seafood mixed dishes
+2404,Shellfish,Protein,Seafood mixed dishes
+2502,Eggs and omelets,Protein,Eggs and omelets
+2602,Cold cuts and cured meats,Protein,Cold cuts and cured meats
+2604,Bacon,Protein,Bacon
+2606,Frankfurters,Protein,Frankfurters
+2608,Sausages,Protein,Sausages
+2802,"Beans, peas, legumes",Protein,"Beans, peas, legumes"
+2804,Nuts and seeds,Protein,Nuts and seeds
+2806,Processed soy products,Protein,Processed soy products
+3002,Meat mixed dishes,Protein,Meat mixed dishes
+3004,Poultry mixed dishes,Protein,Poultry mixed dishes
+3006,Seafood mixed dishes,Protein,Seafood mixed dishes
+3202,Rice mixed dishes,Grain,Rice mixed dishes
+3204,"Pasta mixed dishes, excludes macaroni and cheese",Grain,"Pasta mixed dishes, excludes macaroni and cheese"
+3206,Macaroni and cheese,Grain,Macaroni and cheese
+3208,Turnovers and other grain-based items,Grain,Turnovers and other grain-based items
+3402,Fried rice and lo/chow mein,Grain,Fried rice and lo/chow mein
+3404,Stir-fry and soy-based sauce mixtures,Grain,Stir-fry and soy-based sauce mixtures
+3406,"Egg rolls, dumplings, sushi",Grain,"Egg rolls, dumplings, sushi"
+3502,Burritos and tacos,Grain,Burritos and tacos
+3504,Nachos,Grain,Nachos
+3506,Other Mexican mixed dishes,Grain,Other Mexican mixed dishes
+3602,Pizza,Grain,Pizza
+3702,Burgers (single code),Grain,Burgers (single code)
+3703,Frankfurter sandwiches (single code),Grain,Sandwiches
+3704,Chicken/turkey sandwiches (single code),Grain,Sandwiches
+3706,Egg/breakfast sandwiches (single code),Grain,Sandwiches
+3708,Other sandwiches (single code),Grain,Sandwiches
+3720,Cheese sandwiches (single code),Grain,Sandwiches
+3722,Peanut butter and jelly sanwiches (single code),Grain,Sandwiches
+3802,Soups,Grain,Soups
+4002,Rice,Grain,Rice mixed dishes
+4004,"Pasta, noodles, cooked grains",Grain,"Pasta mixed dishes, excludes macaroni and cheese"
+4202,Yeast breads,Grain,Breads
+4204,Rolls and buns,Grain,Rolls and buns
+4206,Bagels and English muffins,Grain,Bagels and English muffins
+4208,Tortillas,Grain,Tortillas
+4402,"Biscuits, muffins, quick breads",Grain,Breads
+4404,"Pancakes, waffles, French toast",Grain,"Pancakes, waffles, French toast"
+4602,"Ready-to-eat cereal, higher sugar (>21.2g/100g)",Grain,Cereal
+4604,"Ready-to-eat cereal, lower sugar (=<21.2g/100g)",Grain,Cereal
+4802,Oatmeal,Grain,Oatmeal
+4804,Grits and other cooked cereals,Grain,Cereal
+5002,Potato chips,Grain,Chips
+5004,"Tortilla, corn, other chips",Grain,Chips
+5006,Popcorn,Grain,Popcorn
+5008,Pretzels/snack mix,Grain,Pretzels/snack mix
+5202,"Crackers, excludes saltines",Grain,Crackers
+5204,Saltine crackers,Grain,Crackers
+5402,Cereal bars,Grain,Bars
+5404,Nutrition bars,Grain,Bars
+5502,Cakes and pies,Grain,Cakes and pies
+5504,Cookies and brownies,Grain,Cookies and brownies
+5506,"Doughnuts, sweet rolls, pastries",Grain,"Doughnuts, sweet rolls, pastries"
+5702,Candy containing chocolate,Grain,Candy
+5704,Candy not containing chocolate,Grain,Candy
+5802,Ice cream and frozen dairy desserts,Grain,Ice cream and frozen dairy desserts
+5804,Pudding,Grain,Pudding
+5806,"Gelatins, ices, sorbets",Grain,"Gelatins, ices, sorbets"
+6002,Apples,Fruit,Apples
+6004,Bananas,Fruit,Bananas
+6006,Grapes,Fruit,Grapes
+6008,Peaches and nectarines,Fruit,Peaches and nectarines
+6010,Berries,Fruit,Berries
+6012,Citrus fruits,Fruit,Citrus fruits
+6014,Melons,Fruit,Melons
+6016,Dried fruits,Fruit,Dried fruits
+6018,Other fruits and fruit salads,Fruit,Other fruits and fruit salads
+6402,Tomatoes,Vegetable,Tomatoes
+6404,Carrots,Vegetable,Carrots
+6406,Other red and orange vegetables,Vegetable,Other red and orange vegetables
+6408,"Dark green vegetables, excludes lettuce",Vegetable,"Dark green vegetables, excludes lettuce"
+6410,Lettuce and lettuce salads,Vegetable,Lettuce and lettuce salads
+6412,String beans,Vegetable,String beans
+6414,Onions,Vegetable,Onions
+6416,Corn,Vegetable,Corn
+6418,Other starchy vegetables,Vegetable,Other starchy vegetables
+6420,Other vegetables and combinations,Vegetable,Other vegetables and combinations
+6422,Vegetable mixed dishes,Vegetable,Vegetable mixed dishes
+6802,"White potatoes, baked or boiled",Vegetable,White potatoes
+6804,French fries and other fried white potatoes,Vegetable,White potatoes
+6806,Mashed potatoes and white potato mixtures,Vegetable,White potatoes
+7002,Citrus juice,Other,Juice
+7004,Apple juice,Other,Juice
+7006,Other fruit juice,Other,Juice
+7008,Vegetable juice,Other,Juice
+7102,Diet soft drinks,Other,Diet drinks
+7104,Diet sport and energy drinks,Other,Diet drinks
+7106,Other diet drinks,Other,Diet drinks
+7202,Soft drinks,Other,Soft drinks
+7204,Fruit drinks,Other,Fruit drinks
+7206,Sport and energy drinks,Other,Sport and energy drinks
+7208,Nutritional beverages,Other,Nutritional beverages
+7220,Smoothies and grain drinks,Other,Smoothies and grain drinks
+7302,Coffee,Other,Coffee
+7304,Tea,Other,Tea
+7502,Beer,Other,Beer
+7504,Wine,Other,Wine
+7506,Liquor and cocktails,Other,Liquor and cocktails
+7702,Tap water,Other,Water
+7704,Bottled water,Other,Water
+7802,Flavored or carbonated water,Other,Water
+7804,Enhanced or fortified water,Other,Water
+8002,Butter and animal fats,Other,Butter and animal fats
+8004,Margarine,Other,Margarine
+8006,"Cream cheese, sour cream, whipped cream",Other,Cream
+8008,Cream and cream substitutes,Other,Cream
+8010,Mayonnaise,Other,Mayonnaise
+8012,Salad dressings and vegetable oils,Other,Salad dressings and vegetable oils
+8402,Tomato-based condiments,Other,Condiments
+8404,Soy-based condiments,Other,Condiments
+8406,Mustard and other condiments,Other,Condiments
+8408,"Olives, pickles, pickled vegetables",Other,"Olives, pickles, pickled vegetables"
+8410,"Pasta sauces, tomato-based",Other,"Pasta sauces, tomato-based"
+8412,"Dips, gravies, other sauces",Other,"Dips, gravies, other sauces"
+8802,Sugars and honey,Other,Sugars and honey
+8804,Sugar substitutes,Other,Sugar substitutes
+8806,"Jams, syrups, toppings",Other,"Jams, syrups, toppings"
+9002,Baby food: cereals,Other,Baby food: cereals
+9004,Baby food: fruit,Other,Baby food: fruit
+9006,Baby food: vegetable,Other,Baby food: vegetable
+9008,Baby food: meat and dinners,Other,Baby food: meat and dinners
+9010,Baby food: yogurt,Other,Baby food: yogurt
+9012,Baby food: snacks and sweets,Other,Baby food: snacks and sweets
+9202,Baby juice,Other,Baby juice
+9204,Baby water,Other,Baby water
+9402,"Formula, ready-to-feed",Other,Formula
+9404,"Formula, prepared from powder",Other,Formula
+9406,"Formula, prepared from concentrate",Other,Formula
+9602,Human milk,Other,Human milk
+9802,Protein and nutritional powders,Other,Protein and nutritional powders
+9999,Not included in a food category,Other,Not included in a food category
