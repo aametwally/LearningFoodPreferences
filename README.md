@@ -1,5 +1,12 @@
 # LearningFoodPreferences
 
+We present a method for learning food preferences from food logs, a comprehensive but noisy source of information about users' dietary habits. The method generates and compares word embeddings to identify the parent food category of each food entry and then calculates the most popular. Our proposed approach identifies 82% of a user's ten most frequently eaten foods.
+
+
+Paper: Learning Personal Food Preferences via Food Logs Embedding (arXiv: https://arxiv.org/abs/2110.15498)
+
+
+
 This repository contains Jupyter notebooks that each implement a separate method for preprocessing food log entry names. These notebooks are in the folder "methods_notebooks." It also contains necessary data files in the folder named "data." 
 
 Steps to Run:
